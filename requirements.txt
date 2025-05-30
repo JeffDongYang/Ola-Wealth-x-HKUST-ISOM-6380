@@ -6,6 +6,7 @@ astunparse==1.6.3
 atomicwrites==1.4.0
 click==8.2.0
 curl_cffi==0.10.0
+cx_Oracle==8.3.0
 distlib==0.3.9
 duckduckgo_search==8.0.1
 Farama-Notifications==0.0.4
